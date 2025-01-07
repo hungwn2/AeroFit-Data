@@ -1,12 +1,8 @@
 From the Queries given, products like KP281 are more suited for younger and less-fit demographics- ads should highlight ease of use and affordability.
 The KP781, catering to high-income and high-fitness customers, should emphasize premium features and durability.
 The KP481 is somewhere in between the two, and advertising should emphasize those with moderate budgets and who are active, but not at an elite fitness level. (i.e home fitness)
-+--+--+--+--+--+
-|  |  |  |  |  |
-+--+--+--+--+--+
-|  |  |  |  |  |
-+--+--+--+--+--+
-|  |  |  |  |  |
-+--+--+--+--+--+
-|  |  |  |  |  |
-+--+--+--+--+--+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
