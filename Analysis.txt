@@ -1,8 +1,97 @@
-From the Queries given, products like KP281 are more suited for younger and less-fit demographics- ads should highlight ease of use and affordability.
-The KP781, catering to high-income and high-fitness customers, should emphasize premium features and durability.
-The KP481 is somewhere in between the two, and advertising should emphasize those with moderate budgets and who are active, but not at an elite fitness level. (i.e home fitness)
+Overview:
+Shape of dataframe is 180 * 9
+Number of rows = 180
+Number of cols. = 6
+Among the users, 44.44% prefer using the KP281 treadmill, while 33.33% opt for the KP481 treadmill, and only 22.22% of users favor the KP781 treadmill.
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
+From the Queries given, products like KP281 are more suited for younger and less-fit demographics- ads should highlight ease of use and affordability.
+The KP781 is popular among those with high-income and high-fitness, and adverts should emphasize premium features and durability.
+The KP481 is somewhere in between the two, and advertising should emphasize those with moderate budgets and who are active, but not at an elite fitness level. (i.e home fitness)
+59.44% of Aerofit customers are married, while the remaining 40.5% are single.
+57.8 of Aerofit customers are Male, while the remaining are Female.
+Approximately 64% of Aerofit Treadmill users belong to the age group of 20-30.
+Statistical Analysis:
+Usage and Miles-
+KP281: Lower average usage and miles, indicating it's suited for casual users.
+KP481: Moderate usage and miles, indicating it's for more serious fitness enthusiasts but not elite athletes.
+KP781: High usage and miles, appealing to advanced users who prioritize performance
+
+Overall, the sample included 104 men and 74 women, and among each product, the number of men was equal or surpassed the number of women. This was most seen in the JP781, which may be due to the high-fitness part appealing to men. 
+Among those with incomes between 30-50000, the chance of buying a KP281 was highest, at 58.75%, with the KP481 at 50% and KP781 at 12.5%.
+While there were a consderable number of outliers in the income and miles columns, which was to be expected, there were none in Fitness, which suggests that all customers fall within a reasonable range of self-rated fitness levels.
+Drawing Boxplots for income, fitness, and miles, we see that income and miles are negatively skewed, whilst Fitness was more symmetric.
+50% of customers had incomes between 44058.75 and 50596.5, which is significantly below the national average, which may suggest that the Aerofit brand has stronger appeal among lower-incomes.
+Approximately 88% of Aerofit customers belong to the low-income (29000-50000 USD) and medium-income (51000-75000 USD) groups
+The majority of Aerofit customers belong to the age group of 18-30, and there is a high probability of them purchasing Aerofit treadmills.
+
+Suggestions:
+
+
+KP281 – Entry-Level Treadmill:
+Target Demographics: Younger customers (ages 20-30) with lower incomes, typically seeking a budget-friendly option for casual fitness.
+
+Advertising Focus:
+
+Emphasize the affordability, ease of use, and compact design.
+Highlight the simplicity and convenience for users who want to incorporate light fitness into their daily routine without overcomplicating things.
+Address the needs of new fitness enthusiasts who may not have the time or financial flexibility to invest in more advanced models.
+Promotion Strategy:
+
+Offer student discounts, low-interest financing options, or bundled promotions (e.g., free accessories) to make the product more accessible for younger users.
+Social media campaigns focusing on the budget-friendly nature of the treadmill and showcasing testimonials from new fitness users or people living in apartments who need space-saving solutions.
+Customer Engagement:
+
+Partner with fitness influencers who focus on beginner workouts to show how easy it is to start their fitness journey with the KP281.
+Provide starter fitness guides for those new to exercise, focusing on light cardio routines that suit the KP281’s usage profile.
+KP481 – Mid-Level Treadmill:
+Target Demographics: Customers who are more active, with a moderate budget and may not be elite athletes but are looking to maintain or improve their fitness at home.
+
+Advertising Focus:
+
+Highlight the performance, balance of features, and value for money.
+Emphasize that it’s perfect for home fitness enthusiasts who are serious about working out but don’t necessarily need high-end features for professional-level training.
+Advertise advanced features like heart rate monitoring and adjustable incline that help users improve fitness progressively without overwhelming them.
+Promotion Strategy:
+
+Offer mid-range pricing or payment plans to attract customers within the $30,000-$50,000 income range.
+Create ads targeting the active 30-40-year-old age group who want a serious workout but are budget-conscious. Focus on how the KP481 helps them achieve fitness goals from home without paying for gym memberships.
+Customer Engagement:
+
+Partner with fitness trainers or home workout advocates to highlight how the KP481 can enhance the home fitness journey with features that are ideal for serious amateurs.
+Use real-life success stories of people using the KP481 to achieve their fitness goals. Engage the audience by sharing their progress on social media.
+KP781 – High-End Treadmill:
+Target Demographics: High-income individuals (ages 30-60), typically highly committed to fitness, seeking the best performance, and willing to invest in a top-tier product.
+
+Advertising Focus:
+
+Emphasize premium features like customizable training programs, built-in workout tracking, superior durability, and long-term warranty.
+Highlight the high-intensity capabilities and advanced technology that suit serious athletes and users who demand top-tier performance.
+Focus on the long-term investment in their health and wellness. Position the product as the ultimate fitness companion for those who are deeply committed to their fitness goals.
+Promotion Strategy:
+
+Target high-income individuals (above $50,000 in income) with exclusive discounts, premium membership programs, or private consultations on fitness plans.
+Run ads emphasizing advanced running performance, perfect for those who want to train for marathons or achieve advanced fitness levels.
+Customer Engagement:
+
+Collaborate with elite fitness trainers, professional athletes, or wellness coaches to show how the KP781 is an integral part of their training.
+Develop elite user communities that discuss high-performance fitness routines and the benefits of the KP781 in tracking and improving fitness results.
+Offer exclusive events or VIP customer service to engage high-value customers.
+Overall Recommendations for Aerofit:
+Targeted Social Media Marketing:
+Leverage the age, gender, and income data to create specific ads for each treadmill type. Use platforms like Instagram, YouTube, and Facebook, where the target demographics are most active.
+
+Tailored Product Bundles:
+
+For KP281: Offer budget-friendly bundles, including accessories like fitness apps or online workout programs.
+For KP481: Offer workout apparel or fitness tracker bundles.
+For KP781: Offer personal training sessions, premium memberships, or advanced fitness trackers.
+Enhanced Customer Experience:
+
+Implement virtual consultations to recommend the best treadmill based on fitness goals.
+Include detailed product comparisons on your website to help potential customers evaluate which treadmill best suits their fitness journey.
+Leverage Data for Personalization:
+
+Use the user’s fitness level, age, and income group to send personalized promotions and product recommendations via email or on the Aerofit app.
+Run targeted promotions for high-income users and active people who have previously interacted with your brand (e.g., website visits, previous purchases).
+
